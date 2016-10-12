@@ -9,11 +9,12 @@ You'll be adding to your design document as you work towards your midterm due on
 
 ## Topic
 *What is the subject at hand?*
+helping immigrant children learn about american culture and making friends
 *Which broader field(s) does this site apply to?*
 
 ## Problem
 *What is the problem you're trying to solve?*
-
+immigrant children overcome culture shock
 ## Target Audience
 *Who is your target audience? Describe in detail*
 
